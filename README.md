@@ -1,7 +1,7 @@
 ## Installation
 
-1. Clone this repository: `https://github.com/rahulguptafullstack/python-djnago-first-app.git`.
-2. `cd` into python-djnago-first-app: `cd python-djnago-first-app`.
+1. Clone this repository: `https://github.com/rahulguptafullstack/python-django-first-app.git`.
+2. `cd` into python-django-first-app: `cd python-django-first-app`. And run the server using `python manage.py runserver` , even not work then follow further steps.
 3. Install [pyenv](https://github.com/yyuu/pyenv#installation).
 4. Install [pyenv-virtualenv](https://github.com/yyuu/pyenv-virtualenv#installation).
 5. Install Python 3.8.3: `pyenv install 3.8.3`.
