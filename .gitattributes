@@ -1,0 +1,7 @@
+$ cat .gitattributes
+*.py linguist-detectable=true
+*.html linguist-detectable=true
+
+$ github-linguist
+90%  Python
+10%  HTML

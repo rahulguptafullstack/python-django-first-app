@@ -10,3 +10,8 @@
 8. Reload the `pyenv` environment: `pyenv rehash`.
 
 If all went well then your command line prompt should now start with `(myproject)`.
+
+## Credentials for Admin
+URL: `http://127.0.0.1:8000/admin`
+Username: `admin`
+Password: `Pass@123`
